@@ -4,12 +4,11 @@
         {
             "type" : "Feature",
             "id" : "02",
-            "marker-color" : "#00cc00",
             "properties" : {
-                "title" : "Ponto 02",
+                "nome" : "Ponto 02",
                 "bairro" : "Jardim Camburi",
                 "localizacao" : "Av. Dante Michelini, esquina c/ a Rua Silvino Grecco",
-                "description" : "próprio",
+                "classificacao" : "próprio",
                 "marker-color" : "#0c0"
             },
             "geometry" : {
@@ -27,7 +26,8 @@
                 "nome" : "Ponto 02A",
                 "bairro" : "Jardim Camburi",
                 "localizacao" : "Av. Dante Michelini, 100 m à direita do 3º pier",
-                "classificacao" : "próprio"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -44,7 +44,8 @@
                 "nome" : "Ponto 03",
                 "bairro" : "Praia de Camburi",
                 "localizacao" : "Av. Dante Michelini, 100 m à esquerda do 2º pier",
-                "classificacao" : "próprio"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -61,7 +62,8 @@
                 "nome" : "Ponto 04",
                 "bairro" : "Mata da Praia",
                 "localizacao" : "Av. Dante Michelini, esquina c/ a Av. Adalberto Simão Nader",
-                "classificacao" : "próprio"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -78,7 +80,8 @@
                 "nome" : "Ponto 05",
                 "bairro" : "Mata da Praia",
                 "localizacao" : "Av. Dante Michelini, esquina c/ a Av. Nicolau Von Schilgen",
-                "classificacao" : "próprio"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -95,7 +98,8 @@
                 "nome" : "Ponto 06",
                 "bairro" : "Jardim da Penha",
                 "localizacao" : "Av. Dante Michelini, próximo a Av. Carlos Orlando Carvalho",
-                "classificacao" : "próprio"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -112,7 +116,8 @@
                 "nome" : "Ponto 07",
                 "bairro" : "Jardim da Penha",
                 "localizacao" : "Av. Dante Michelini, esquina c/ a R. Eugenílio Ramos",
-                "classificacao" : "impróprio"
+                "classificacao" : "impróprio",
+                "marker-color" : "#c00"
             },
             "geometry" : {
                 "type" : "Point",
@@ -129,7 +134,8 @@
                 "nome" : "Ponto 08",
                 "bairro" : "Praia de Camburi",
                 "localizacao" : "Av. Dante Michelini, 150 m à esquerda do píer de Iemanjá",
-                "classificacao" : "próprio"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -146,7 +152,8 @@
                 "nome" : "Ponto 09",
                 "bairro" : "Praia de Camburi",
                 "localizacao" : "Canal de Camburi, ao lado direito do píer de Iemanjá",
-                "classificacao" : "interditado"
+                "classificacao" : "interditado",
+                "marker-color" : "#fe5"
             },
             "geometry" : {
                 "type" : "Point",
@@ -164,6 +171,7 @@
                 "bairro" : "Praia do Canto",
                 "localizacao" : "80 m à direita do Iate Clube",
                 "classificacao" : "interditado"
+                "marker-color" : "#fe5"
             },
             "geometry" : {
                 "type" : "Point",
@@ -180,7 +188,8 @@
                 "nome" : "Ponto 11",
                 "bairro" : "Praia do Canto",
                 "localizacao" : "80 m à esquerda da ponte da Ilha do Frade",
-                "classificacao" : "interditado"
+                "classificacao" : "interditado",
+                "marker-color" : "#fe5"
             },
             "geometry" : {
                 "type" : "Point",
@@ -197,7 +206,8 @@
                 "nome" : "Ponto 12",
                 "bairro" : "Praia de Santa Helena",
                 "localizacao" : "100 m à direita da ponte da Ilha do Frade / Praça dos Desejos",
-                "classificacao" : "interditado"
+                "classificacao" : "interditado",
+                "marker-color" : "#fe5"
             },
             "geometry" : {
                 "type" : "Point",
@@ -214,7 +224,8 @@
                 "nome" : "Ponto 12A",
                 "bairro" : "Praia de Santa Helena",
                 "localizacao" : "Próximo à Escola de Vela / Praça dos Desejos",
-                "classificacao" : "próprio"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -231,7 +242,8 @@
                 "nome" : "Ponto 13",
                 "bairro" : "Praia de Santa Helena",
                 "localizacao" : "200 m à esquerda das barracas da Curva da Jurema",
-                "classificacao" : "impróprio"
+                "classificacao" : "impróprio",
+                "marker-color" : "#c00"
             },
             "geometry" : {
                 "type" : "Point",
@@ -248,7 +260,8 @@
                 "nome" : "Ponto 14",
                 "bairro" : "Praia de Santa Helena",
                 "localizacao" : "Em frente às barracas da Curva da Jurema",
-                "classificacao" : "impróprio"
+                "classificacao" : "impróprio",
+                "marker-color" : "#c00"
             },
             "geometry" : {
                 "type" : "Point",
@@ -265,7 +278,8 @@
                 "nome" : "Ponto 15",
                 "bairro" : "Ilha do Frade",
                 "localizacao" : "1ª praia à direita",
-                "classificacao" : "próprio"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -282,7 +296,8 @@
                 "nome" : "Ponto 16",
                 "bairro" : "Ilha do Frade",
                 "localizacao" : "Praia da Castanheira",
-                "classificacao" : "próprio"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -299,7 +314,8 @@
                 "nome" : "Ponto 17",
                 "bairro" : "Ilha do Frade",
                 "localizacao" : "Praia da Ilha do Frade",
-                "classificacao" : "próprio"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -316,7 +332,8 @@
                 "nome" : "Ponto 18",
                 "bairro" : "Ilha do Boi",
                 "localizacao" : "Praia da Direita",
-                "classificacao" : "próprio"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -333,7 +350,8 @@
                 "nome" : "Ponto 19",
                 "bairro" : "Ilha do Boi",
                 "localizacao" : "Praia Grande",
-                "classificacao" : "impróprio"
+                "classificacao" : "impróprio",
+                "marker-color" : "#c00"
             },
             "geometry" : {
                 "type" : "Point",
@@ -350,7 +368,8 @@
                 "nome" : "Ponto 20",
                 "bairro" : "Praia/Enseada do Suá",
                 "localizacao" : "Praia do Suá / Praça do Papa",
-                "classificacao" : "impróprio"
+                "classificacao" : "impróprio",
+                "marker-color" : "#c00"
             },
             "geometry" : {
                 "type" : "Point",
@@ -367,7 +386,8 @@
                 "nome" : "Ponto 21",
                 "bairro" : "Praia/Enseada do Suá",
                 "localizacao" : "Praia do meio (embaixo da Terceira Ponte)",
-                "classificacao" : "impróprio"
+                "classificacao" : "impróprio",
+                "marker-color" : "#c00"
             },
             "geometry" : {
                 "type" : "Point",
@@ -384,7 +404,8 @@
                 "nome" : "Ponto 22",
                 "bairro" : "Santo Antônio",
                 "localizacao" : "Praia de Santo Antônio / Praça Dom João Batista",
-                "classificacao" : "interditado"
+                "classificacao" : "interditado",
+                "marker-color" : "#fe5"
             },
             "geometry" : {
                 "type" : "Point",
@@ -401,7 +422,8 @@
                 "nome" : "Ponto 23",
                 "bairro" : "Canal da Passagem",
                 "localizacao" : "Canal de Camburi (Ponte da Passagem)",
-                "classificacao" : "interditado"
+                "classificacao" : "interditado",
+                "marker-color" : "#fe5"
             },
             "geometry" : {
                 "type" : "Point",
@@ -418,7 +440,8 @@
                 "nome" : "Ponto 24",
                 "bairro" : "Praia das Castanheiras",
                 "localizacao" : "Próximo ao antigo Bar do Bigode",
-                "classificacao" : "interditado"
+                "classificacao" : "interditado",
+                "marker-color" : "#fe5"
             },
             "geometry" : {
                 "type" : "Point",
