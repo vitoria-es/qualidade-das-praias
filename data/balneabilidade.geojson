@@ -1,0 +1,25 @@
+{
+    "type" : "FeatureCollection",
+    "features" : [
+        {
+            "type" : "Feature",
+            "id" : 2,
+            "properties" : {
+                'label" : "Ponto 02",
+                "neighborhood" : "Jardim Camburi",
+                "location" : "Av. Dante Michelini, esquina c/ a Rua Silvino Grecco",
+                "classification" : {
+                    "code" : 1,
+                    "label" : "appropriate"
+                }
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.268450,
+                    -20.267531
+                ]
+            }
+        }
+    ]
+}
