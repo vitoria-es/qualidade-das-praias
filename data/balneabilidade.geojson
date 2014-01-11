@@ -4,6 +4,7 @@
         {
             "type" : "Feature",
             "id" : "02",
+            "marker-color" : "#00cc00",
             "properties" : {
                 "nome" : "Ponto 02",
                 "bairro" : "Jardim Camburi",
@@ -12,7 +13,6 @@
             },
             "geometry" : {
                 "type" : "Point",
-                "marker-color" : "#00cc00",
                 "coordinates" : [
                     -40.268450,
                     -20.267531
