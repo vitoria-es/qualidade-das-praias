@@ -8,10 +8,7 @@
                 "nome" : "Ponto 02",
                 "bairro" : "Jardim Camburi",
                 "localizacao" : "Av. Dante Michelini, esquina c/ a Rua Silvino Grecco",
-                "classificacao" : "próprio",
-                "style" : {
-                    "color" : "#000000"
-                }
+                "classificacao" : "próprio"
             },
             "geometry" : {
                 "type" : "Point",
