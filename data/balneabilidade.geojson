@@ -170,7 +170,7 @@
                 "nome" : "Ponto 10",
                 "bairro" : "Praia do Canto",
                 "localizacao" : "80 m à direita do Iate Clube",
-                "classificacao" : "interditado"
+                "classificacao" : "interditado",
                 "marker-color" : "#fe5"
             },
             "geometry" : {
