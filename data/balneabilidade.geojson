@@ -5,7 +5,7 @@
             "type" : "Feature",
             "id" : "02",
             "properties" : {
-                'nome" : "Ponto 02",
+                "nome" : "Ponto 02",
                 "bairro" : "Jardim Camburi",
                 "localizacao" : "Av. Dante Michelini, esquina c/ a Rua Silvino Grecco",
                 "classificacao" : "próprio"
@@ -22,7 +22,7 @@
             "type" : "Feature",
             "id" : "02A",
             "properties" : {
-                'nome" : "Ponto 02A",
+                "nome" : "Ponto 02A",
                 "bairro" : "Jardim Camburi",
                 "localizacao" : "Av. Dante Michelini, 100m à direita do 3º pier",
                 "classificacao" : "próprio"
