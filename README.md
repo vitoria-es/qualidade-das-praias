@@ -2,4 +2,10 @@
 
 Reúne informações sobre balneabilidade das principais praias da cidade.
 
-**Fonte:** [http://sistemas6.vitoria.es.gov.br/vol_balneabilidade/balneabilidade.php](http://sistemas6.vitoria.es.gov.br/vol_balneabilidade/balneabilidade.php)
+Resultados válidos até **16/01/2014**.
+
+### Aviso
+
+A classificação da balneabilidade é a indicação da qualidade das águas destinadas à recreação de contato direto e prolongado, como natação, mergulho e lazer. É realizada, em regime de rotina semanal, por meio da coleta de amostras de águas nos referidos pontos e análise laboratorial para a avaliação do indicador coliformes termotolerantes. A Secretaria do Meio Ambiente de Vitória classifica a qualidade das águas como próprias, impróprias e interditadas, de acordo com a concentração do indicador como estabelecido na Resolução CONAMA 274/00.
+
+Os dados aqui disponibilizados servem apenas como conveniência de acesso e não são de caráter oficial. Os mesmos podem estar desatualizados ou não refletir fielmente a fonte. Para acessar os dados mais recentes acesse a página da Secretaria de Meio Ambiente no site da Prefeitura de Vitória: [Mapa de Balneabilidade](http://sistemas6.vitoria.es.gov.br/vol_balneabilidade/balneabilidade.php)
