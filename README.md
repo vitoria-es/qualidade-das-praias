@@ -1,8 +1,8 @@
-# Qualidade das praias de Vitória
+# Qualidade das Praias de Vitória
 
 Reúne informações sobre balneabilidade das principais praias da cidade.
 
-Resultados válidos até **16/01/2014**.
+Resultados válidos até **23/01/2014**.
 
 ### Aviso
 

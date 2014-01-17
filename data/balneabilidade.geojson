@@ -26,8 +26,8 @@
                 "nome" : "Ponto 02A",
                 "bairro" : "Jardim Camburi",
                 "localizacao" : "Av. Dante Michelini, 100 m à direita do 3º pier",
-                "classificacao" : "próprio",
-                "marker-color" : "#0c0"
+                "classificacao" : "impróprio",
+                "marker-color" : "#c00"
             },
             "geometry" : {
                 "type" : "Point",
@@ -63,7 +63,7 @@
                 "bairro" : "Mata da Praia",
                 "localizacao" : "Av. Dante Michelini, esquina c/ a Av. Adalberto Simão Nader",
                 "classificacao" : "próprio",
-                "marker-color" : "#0c0"
+                "marker-color" : "#c00"
             },
             "geometry" : {
                 "type" : "Point",
@@ -116,8 +116,8 @@
                 "nome" : "Ponto 07",
                 "bairro" : "Jardim da Penha",
                 "localizacao" : "Av. Dante Michelini, esquina c/ a R. Eugenílio Ramos",
-                "classificacao" : "impróprio",
-                "marker-color" : "#c00"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -260,8 +260,8 @@
                 "nome" : "Ponto 14",
                 "bairro" : "Praia de Santa Helena",
                 "localizacao" : "Em frente às barracas da Curva da Jurema",
-                "classificacao" : "impróprio",
-                "marker-color" : "#c00"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -350,8 +350,8 @@
                 "nome" : "Ponto 19",
                 "bairro" : "Ilha do Boi",
                 "localizacao" : "Praia Grande",
-                "classificacao" : "impróprio",
-                "marker-color" : "#c00"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
