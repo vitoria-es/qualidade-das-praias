@@ -1,0 +1,455 @@
+{
+    "type" : "FeatureCollection",
+    "features" : [
+        {
+            "type" : "Feature",
+            "id" : "02",
+            "properties" : {
+                "nome" : "Ponto 02",
+                "bairro" : "Jardim Camburi",
+                "localizacao" : "Av. Dante Michelini, esquina c/ a Rua Silvino Grecco",
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.268450,
+                    -20.267531
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "02A",
+            "properties" : {
+                "nome" : "Ponto 02A",
+                "bairro" : "Jardim Camburi",
+                "localizacao" : "Av. Dante Michelini, 100 m à direita do 3º pier",
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.274297,
+                    -20.270973
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "03",
+            "properties" : {
+                "nome" : "Ponto 03",
+                "bairro" : "Praia de Camburi",
+                "localizacao" : "Av. Dante Michelini, 100 m à esquerda do 2º pier",
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.275989,
+                    -20.271638
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "04",
+            "properties" : {
+                "nome" : "Ponto 04",
+                "bairro" : "Mata da Praia",
+                "localizacao" : "Av. Dante Michelini, esquina c/ a Av. Adalberto Simão Nader",
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.280260,
+                    -20.275643
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "05",
+            "properties" : {
+                "nome" : "Ponto 05",
+                "bairro" : "Mata da Praia",
+                "localizacao" : "Av. Dante Michelini, esquina c/ a Av. Nicolau Von Schilgen",
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.287405,
+                    -20.281440
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "06",
+            "properties" : {
+                "nome" : "Ponto 06",
+                "bairro" : "Jardim da Penha",
+                "localizacao" : "Av. Dante Michelini, próximo a Av. Carlos Orlando Carvalho",
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.288628,
+                    -20.283795
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "07",
+            "properties" : {
+                "nome" : "Ponto 07",
+                "bairro" : "Jardim da Penha",
+                "localizacao" : "Av. Dante Michelini, esquina c/ a R. Eugenílio Ramos",
+                "classificacao" : "impróprio",
+                "marker-color" : "#c00"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.290044,
+                    -20.287337
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "08",
+            "properties" : {
+                "nome" : "Ponto 08",
+                "bairro" : "Praia de Camburi",
+                "localizacao" : "Av. Dante Michelini, 150 m à esquerda do píer de Iemanjá",
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.289615,
+                    -20.290417
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "09",
+            "properties" : {
+                "nome" : "Ponto 09",
+                "bairro" : "Praia de Camburi",
+                "localizacao" : "Canal de Camburi, ao lado direito do píer de Iemanjá",
+                "classificacao" : "interditado",
+                "marker-color" : "#fe5"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.288285,
+                    -20.293476
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "10",
+            "properties" : {
+                "nome" : "Ponto 10",
+                "bairro" : "Praia do Canto",
+                "localizacao" : "80 m à direita do Iate Clube",
+                "classificacao" : "interditado",
+                "marker-color" : "#fe5"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.290602,
+                    -20.300520
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "11",
+            "properties" : {
+                "nome" : "Ponto 11",
+                "bairro" : "Praia do Canto",
+                "localizacao" : "80 m à esquerda da ponte da Ilha do Frade",
+                "classificacao" : "interditado",
+                "marker-color" : "#fe5"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.290323,
+                    -20.301888
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "12",
+            "properties" : {
+                "nome" : "Ponto 12",
+                "bairro" : "Praia de Santa Helena",
+                "localizacao" : "100 m à direita da ponte da Ilha do Frade / Praça dos Desejos",
+                "classificacao" : "interditado",
+                "marker-color" : "#fe5"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.290388,
+                    -20.304746
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "12A",
+            "properties" : {
+                "nome" : "Ponto 12A",
+                "bairro" : "Praia de Santa Helena",
+                "localizacao" : "Próximo à Escola de Vela / Praça dos Desejos",
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.290366,
+                    -20.305993
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "13",
+            "properties" : {
+                "nome" : "Ponto 13",
+                "bairro" : "Praia de Santa Helena",
+                "localizacao" : "200 m à esquerda das barracas da Curva da Jurema",
+                "classificacao" : "impróprio",
+                "marker-color" : "#c00"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.289613,
+                    -20.307815
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "14",
+            "properties" : {
+                "nome" : "Ponto 14",
+                "bairro" : "Praia de Santa Helena",
+                "localizacao" : "Em frente às barracas da Curva da Jurema",
+                "classificacao" : "impróprio",
+                "marker-color" : "#c00"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.286954,
+                    -20.308891
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "15",
+            "properties" : {
+                "nome" : "Ponto 15",
+                "bairro" : "Ilha do Frade",
+                "localizacao" : "1ª praia à direita",
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.285831,
+                    -20.303282
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "16",
+            "properties" : {
+                "nome" : "Ponto 16",
+                "bairro" : "Ilha do Frade",
+                "localizacao" : "Praia da Castanheira",
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.277801,
+                    -20.301626
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "17",
+            "properties" : {
+                "nome" : "Ponto 17",
+                "bairro" : "Ilha do Frade",
+                "localizacao" : "Praia da Ilha do Frade",
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.279839,
+                    -20.300147
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "18",
+            "properties" : {
+                "nome" : "Ponto 18",
+                "bairro" : "Ilha do Boi",
+                "localizacao" : "Praia da Direita",
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.278960,
+                    -20.308418
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "19",
+            "properties" : {
+                "nome" : "Ponto 19",
+                "bairro" : "Ilha do Boi",
+                "localizacao" : "Praia Grande",
+                "classificacao" : "impróprio",
+                "marker-color" : "#c00"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.281320,
+                    -20.308298
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "20",
+            "properties" : {
+                "nome" : "Ponto 20",
+                "bairro" : "Praia/Enseada do Suá",
+                "localizacao" : "Praia do Suá / Praça do Papa",
+                "classificacao" : "impróprio",
+                "marker-color" : "#c00"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.294939,
+                    -20.318641
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "21",
+            "properties" : {
+                "nome" : "Ponto 21",
+                "bairro" : "Praia/Enseada do Suá",
+                "localizacao" : "Praia do meio (embaixo da Terceira Ponte)",
+                "classificacao" : "impróprio",
+                "marker-color" : "#c00"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.288240,
+                    -20.316438
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "22",
+            "properties" : {
+                "nome" : "Ponto 22",
+                "bairro" : "Santo Antônio",
+                "localizacao" : "Praia de Santo Antônio / Praça Dom João Batista",
+                "classificacao" : "interditado",
+                "marker-color" : "#fe5"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.355063,
+                    -20.307447
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "23",
+            "properties" : {
+                "nome" : "Ponto 23",
+                "bairro" : "Canal da Passagem",
+                "localizacao" : "Canal de Camburi (Ponte da Passagem)",
+                "classificacao" : "interditado",
+                "marker-color" : "#fe5"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.303265,
+                    -20.286517
+                ]
+            }
+        },
+        {
+            "type" : "Feature",
+            "id" : "24",
+            "properties" : {
+                "nome" : "Ponto 24",
+                "bairro" : "Praia das Castanheiras",
+                "localizacao" : "Próximo ao antigo Bar do Bigode",
+                "classificacao" : "interditado",
+                "marker-color" : "#fe5"
+            },
+            "geometry" : {
+                "type" : "Point",
+                "coordinates" : [
+                    -40.302599,
+                    -20.318978
+                ]
+            }
+        }
+    ]
+}
