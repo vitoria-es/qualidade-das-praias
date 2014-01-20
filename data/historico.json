@@ -1,18 +1,18 @@
 {
-	"data" : [
-		{
-			"id" 			: 20140123,
-			"valid_until" 	: "2014-01-23",
-			"added_in" 		: "2014-01-16",
-			"comments" 		: null,
-			"changes" 		: ["02A", "04", "07", "14", "19"]
-		},
-		{
-			"id" 			: 20140116,
-			"valid_until" 	: "2014-01-16",
-			"added_in" 		: "2014-01-16",
-			"comments" 		: null,
-			"changes" 		: null
-		}
-	]
+    "data" : [
+        {
+            "id" : 20140123,
+            "valid_until" : "2014-01-23",
+            "added_in" : "2014-01-16",
+            "comments" : null,
+            "changes" : ["02A", "04", "07", "14", "19"]
+        },
+        {
+            "id" : 20140116,
+            "valid_until" : "2014-01-16",
+            "added_in" : "2014-01-16",
+            "comments" : null,
+            "changes" : null
+        }
+    ]
 }
