@@ -26,8 +26,8 @@
                 "nome" : "Ponto 02A",
                 "bairro" : "Jardim Camburi",
                 "localizacao" : "Av. Dante Michelini, 100 m à direita do 3º pier",
-                "classificacao" : "impróprio",
-                "marker-color" : "#c00"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -242,8 +242,8 @@
                 "nome" : "Ponto 13",
                 "bairro" : "Praia de Santa Helena",
                 "localizacao" : "200 m à esquerda das barracas da Curva da Jurema",
-                "classificacao" : "impróprio",
-                "marker-color" : "#c00"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -260,8 +260,8 @@
                 "nome" : "Ponto 14",
                 "bairro" : "Praia de Santa Helena",
                 "localizacao" : "Em frente às barracas da Curva da Jurema",
-                "classificacao" : "próprio",
-                "marker-color" : "#0c0"
+                "classificacao" : "impróprio",
+                "marker-color" : "#c00"
             },
             "geometry" : {
                 "type" : "Point",
