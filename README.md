@@ -2,7 +2,7 @@
 
 Reúne informações sobre balneabilidade das principais praias da cidade.
 
-Resultados válidos até **23/01/2014**.
+Resultados válidos até **06/02/2014**.
 
 ### Aviso
 
