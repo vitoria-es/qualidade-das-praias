@@ -26,8 +26,8 @@
                 "nome" : "Ponto 02A",
                 "bairro" : "Jardim Camburi",
                 "localizacao" : "Av. Dante Michelini, 100 m à direita do 3º pier",
-                "classificacao" : "próprio",
-                "marker-color" : "#0c0"
+                "classificacao" : "impróprio",
+                "marker-color" : "#c00"
             },
             "geometry" : {
                 "type" : "Point",
