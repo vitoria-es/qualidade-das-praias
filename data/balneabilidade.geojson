@@ -170,8 +170,8 @@
                 "nome" : "Ponto 10",
                 "bairro" : "Praia do Canto",
                 "localizacao" : "80 m à direita do Iate Clube",
-                "classificacao" : "interditado",
-                "marker-color" : "#fe5"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -368,8 +368,8 @@
                 "nome" : "Ponto 20",
                 "bairro" : "Praia/Enseada do Suá",
                 "localizacao" : "Praia do Suá / Praça do Papa",
-                "classificacao" : "impróprio",
-                "marker-color" : "#c00"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
@@ -386,8 +386,8 @@
                 "nome" : "Ponto 21",
                 "bairro" : "Praia/Enseada do Suá",
                 "localizacao" : "Praia do meio (embaixo da Terceira Ponte)",
-                "classificacao" : "impróprio",
-                "marker-color" : "#c00"
+                "classificacao" : "próprio",
+                "marker-color" : "#0c0"
             },
             "geometry" : {
                 "type" : "Point",
